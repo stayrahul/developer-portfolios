@@ -886,6 +886,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Rahul Gulabaji](https://rahulgulabaji.github.io/) [Software Engineer ]
 - [Rahul Gurujala](https://rahulgurujala.is-a.dev/) [Full Stack Developer]
 - [Rahul Kumar](https://rahulbaran.vercel.app)
+- [Rahul Kushwaha](https://www.stayrahul.me)
 - [Rahul Mehta](https://rahulmehta.dev)
 - [Rahul Sawant](http://raalzz.com)
 - [Raj Aryan](https://rajxryan.vercel.app)
